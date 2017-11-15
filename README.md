@@ -101,3 +101,6 @@ Redis-Code
   * [long long 类型转为String类型方法](http://blog.csdn.net/androidlushangderen/article/details/40649623)
   * [正则表达式的实现算法](http://blog.csdn.net/androidlushangderen/article/details/40649623)
   * [Redis的drand48()随机算法重实现](http://blog.csdn.net/androidlushangderen/article/details/40582189)
+
+
+## redis-2.8.17
